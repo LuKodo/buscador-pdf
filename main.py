@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 from PyPDF2 import PdfReader
 from datetime import datetime
-import io
 import base64
 
 
